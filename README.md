@@ -5,7 +5,7 @@ More information on Text Fabric can be found here: [text-fabric](https://github.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4382039.svg)](https://doi.org/10.5281/zenodo.4382039)
 
-If you want to cite this data set, please use: https://doi.org/10.5281/zenodo.4382038
+If you want to cite this data set, please use: https://doi.org/10.5281/zenodo.438203g
 
 The original TEI XML files can be found here:
 - Perseus Digital Library: https://github.com/PerseusDL/canonical-greekLit
