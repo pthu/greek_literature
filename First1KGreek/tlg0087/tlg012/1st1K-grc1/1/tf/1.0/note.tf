@@ -1,0 +1,40 @@
+@node
+@author=Herodianus
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=no feature metadata have been provided; look at the name of the feature and at the data itself to get some clues
+@editor=August Lentz
+@filename=tlg0087.tlg012.1st1K-grc1
+@funder=Harvard Library Arcadia Fund
+@principal=Gregory Crane
+@publicationStmt=Harvard College Library, tlg0087.tlg012.1st1K-grc1.xml.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Gessner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig) 2015 - 2017, Bruce Robertson, Technical Advisor
+@sourceDesc=Herodiani Technici Reliquiae, August Lentz, Aelius Herodianus, Teubner, Leipzig, 1868, 2, Grammatici Graeci, 3.2.1, Hathi Trust.
+@sponsor=University of Leipzig
+@title=Περὶ ὀνομάτων
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:58:11Z
+
+9766	footnote 1. 8 ἀνήρ ἀνδρεῖοϲ quod intellectus flagitat scripsi pro ἄρδω ἀρδεύω. l. 23 adieci Ἀλλαμήν ex Mon. 32, 10. —Herodianea frustula quamvis confusa nostro loco contineri videntur.
+footnote l. 12 verba uncinis inclusa epitomatoris videntur. l. 34 ef. 1387, 26 τῶν εἰϲ ευϲ ὀνομάτων ὑπὲρ μίαν ϲυλλαβὴν ὄντων μονήρηϲ μένει ὁ Ζεύϲ ὡϲ μονοϲύλλαβοϲ καί πολλαῖϲ εὐθείαιϲ παρὰ τοῖϲ παλαιοῖϲ ποικίλλεται. Δίϲ γάρ, οὗ ἡ γενικὴ Διόϲ, καὶ Ζήν καὶ Ζάν καὶ Ζάϲ καὶ Ζὴϲ παρά Φερεκύδει καὶ Βοιωτικῶϲ Δεύϲ καὶ Δάν. Mon. 6, 15.
+footnote l. 17 conf. Catholicam (p. 427, 27) de genetivo pluralis, ubi Herodianus canonem a quibusdam propositum improbaverat. Choeroboscus illum canonem defendit monens ipsum Herodianum pronunciavisse ἐν ἑτέροιϲ, quibus verbis hunc περὶ ὀνομάτων librum signiicari mxime probabile est, κίϲ et λίϲ aut in accentu aut in declinatu a legitima via aberrasse.
+footnote l. cf. Catholicam p. 238, 14.
+footnote 1. 5 in his omisi quae ab Eustathio inserta videntur. 1. 16 concinunt haec. fere cum Dichr. 283, 11, ad quem l. ef. Lehrsium et quem citat, Ahrens. de dial.
+footnote Dor. p. 173. l. 25 corr. Meinekius ad Theocr. Id. II 4. — Multa in hae et insequentibus paginis Byxantinum doctorem produnt: velut puerilia illa l. 27—29 Herodiani non esse patet. l. 32 Ῥιανῷ pro Ἀριανῷ Bekkerus restituit et idem μέλαϲ pro μέγαϲ. De Rhiano cf. Mein. Anall. Alex. p. 203. l. 38 substitui Φθάϲ pro Πράϲ, quum in Onomatico Herodianum Πρᾶϲ perispomenos pronuntiasse sciamus cf. fr. 3.
+footnote l. 1 cf. E. M. 575, 53 maxime V. Quamquam Lob. Parall. 21 docet cpalleliam diphthongi αι Graecis non absonam fuisse, tamen non dubitandum est, quin hoc adnotamentum ab Herodiano profectum sit, qui etiam in aliis, quae Lobeck. reprobavit, cacopboniam detexit cf. Ahrens de dial. Aeol. p. 70. l. 18 verba ἢ κατὰ ϲυϲτολὴν — βρωμέειϲ addidi ex Mon. 14, 19, cf. praeterea Ep. Cr. I 12 et 408.
+footnote l. 10 cf. Cathol. p. 240, 17. l. 13 hic quoque permulta Byzantinam originem clamant, quae uncis notare longuni est. l. 27 omisi verba καὶ χωρὶϲ τοῦ πούϲ, καὶ τοῦτο γὰρ —κρᾶϲιν ἔπαθε βαρείαϲ καὶ ὀξείαϲ εἰϲ ὀξεῖαν ϲυνελθουϲῶν. Nam vix credendum est Herodianum sic, ut Choer. 239, 6 πορόϲ ποόϲ πούϲ, ortum hoc vocabulum putasse; Mon. 14, 35 accentum a norma reliquorum εἰϲ ουϲ monosyllaborum circumflexorum aberrantem similitudine participiorum excusat. Porro pro iis quae Choer. l. 30 de νηλήϲ proponit τὸ νηλήϲ οὐκ ἀπὸ τοῦ νηλεήϲ γέγονε κατὰ κρᾶϲιν κτλ. substitui sententiam, quae magis Herodianeam originem prae se fert in Ep. I 296; nam Herod. ap. Are. 196, νηλέα θυμὸν οὐκ ἔϲτι κατὰ κρᾶϲιν, ἀλλὰ κατὰ ἔνδειαν τοῦ ἑνὸϲ ε. l. 28, de ἀδελ-φιδοῦϲ etc. cf. Cathol. 243, 30.
+footnote l. 3 cf. Ιl. Pr. l 605, Μ 201, Io. Al. 8, 30, Arc. 25, 17. l. 20 haec in brevius contracta in Ep. in Psalm. 64, 30 —65, 20. Pertinere videntur ad Herodiani quid τίϲ sit quaestionem : cf. Mon. 19.
+footnote l. 5 hie alicubi commemoratum fuit etiam Ἱεριχοῦϲ ἡ γενικὴ Ἱεριχοῦντοϲ λέγεται καὶ ἀρϲενικῶϲ καὶ θηλυκῶϲ· εὕρηται καὶ δοτικὴ Ἱεριχοῖ ἀπὸ τῆϲ Ἱεριχώ St. B. l. 35 cf. Lob. El. I 44; do syncope adverbiorum in κιϲ exeuntium in compositione ef. Ε. M. 767, 25, E. Gud. 231, 47.
+footnote l. 22 cf. fr. 12.
+footnote l. 9 ef. fr. 1
+footnote . 36 Menandri fragmentum corruptum est, cf. Mein. p. 1035 ed. min.
+footnote l. 31 de Φόρκυν cf. not. ad Cathol. 18, 14. De Γόρτυν haec apud St. B. 212, 2 servata sunt: Γόρτυν (Γόρτυϲ)· φαϲὶ δὲ τὴν αἰτιατικὴν οἱ μὲν διϲυλλάβωϲ Γόρτυν, οἱ δὲ τριϲυλλάβωϲ «Γόρτυνά τε τειχιόεϲϲαν» (Β 646), οἱ δὲ Γόρτυναν ὡϲ ἄμυναν. l. 35 cf.. (Choer. 283, 9 ἰϲτέον καὶ τοῦτο, ὅτι διάφοροι δόξαι περὶ τοῦ χρόνου τῆϲ εὐθείαϲ γεγόναϲιν, αἱ μὲν γὰρ ἀξιοῦϲι καὶ ἐν τῇ εὐθείᾳ καὶ ἐν πάϲαιϲ ταῖϲ πτώϲεϲιν ἐκτείνεϲθαι τὸ υ, οἱ δέ λέγουϲιν ὅτι ἐν μὲν τῇ εὐθείᾳ ϲυϲτέλλεται τὸ υ, ἐν δὲ ταῖϲ ἄλλαιϲ πτώϲεϲι ταῖϲ πλαγίαιϲ ἐκτείνεται καὶ διάφοροί εἰϲι δόξαι τῶν τεχνικῶν περὶ τούτου.
+footnote l. 12 cf. Eust. 346, 13, ubi et haec: Ἡρωδιανὸϲ δὲ τοῖϲ εἰϲ ων περιϲπωμένοιϲ οἷον Δημοφῶντι καὶ Ξενοφῶντι ϲυντεταχὼϲ καὶ τὸν Τυφῶνα καὶ τὸν ταῶνα λέγει ὡϲ μόνον τὸ Τυφῶν καὶ τὸ ταῶν οὐκ ἐκλίθη διὰ τοῦ ντ, ἐπειδὴ καὶ ἑτέραν ἔϲχε κατάληξιν· Τυφῶϲ γὰρ καὶ ταῶϲ διὰ τοῦ ϲ. Etymologias a Choerob. 299, 32 prolatas, quippe quum dubiae sint velut Ξενοφῶν a φῶ τὸ φονεύω et Δεξικρῶν a κρείω τὸ βαϲιλεύω καὶ κρατῶ aut etiam falsae ut Ἱπποκῶν a κτῶμαι Ἱπποκτῶν καὶ Ἱπποκῶν (cf. Lob. El. ΙΙ 115 seqq.) Herodiano non obtrudendas iudicavi. De ταόϲ ef. Cathol. p. 109, 5.
+footnote l. 4 quae de quantitate genetivi vocabulorum in ιξ υξ tradit Choer., non ab omni parte congruunt cum doctrina Herodianea in Dichr. 285, 5 sqq., nam quum contra Aristophanem grammaticum et Ptolemaeum Ascalonitam χοίνικοϲ metri causa corripi , id quod etiam inde quod interdum producta paenultima legatur appareat, doceat Herodianus, Choerob. 312, 6 χοῖνιξ χοίνικοϲ πανταχοῦ ϲυϲτέλλει. τὸ ι tradit et quum Herod.Βέβρυκοϲ ex lege corripi et poetarum licentia produci existimet, Choer.314,8 dicit: τὸ Βέβρυξ κατὰ τὰϲ πτώϲειϲ τὰϲ μὴ ἐχούϲαϲ τὸ ξδιφορεῖται κατὰ τὸν χρόνον, εὑρέθη γὰρ καὶ ἐκτεταμένον — καὶ ϲυνεϲταλμένον. Quare hanc particulam omittere satius habui quam ad Herodiani sententiam ope libri περὶ διχρόνων dirigere. Nam veram Herodiani doctrinam ex ipso illo libro petere licet. l. 9 verba οὐκ ἀναϲτρέφοντοϲ τοῦ κανόνοϲ —τουτέϲτι θέϲει, quae explevi addens μακρὸν αὐτὸ ἔχει, ex p. 306, 11, ubi in alienum locum irrepserunt, huc retraxi, quo loco necessaria sunt propter εὑρίϲκομεν γὰρ, quae non haberent, quo referrentur. Cum hoc l. conferendus est Herod. Dichr. 283,25 unde pro Ὕλαξ Κῆαξ reposui Γῦναξ Γῦλαξ, quamquam prius suspicione non caret ; intactum reliqui ϲῦαξ, pro quo in Dichr. ϲαῦαξ exstat propter Lehrsii admonitionem.
+footnote l. 30 Choer. λίπα per apocopen ex λιπαρόν expedit, Herodianus vero ex λίπαϲ, quae altera forma vocabuli λίποϲ esset, ortum putavit ap. Eust. 1560, 26 quare Herodianeam sententiam substitui. Omisi quod Choer. dicit οὐκ ἔϲτιν ἐν χρήϲει τὸ ὕφα, ἀλλὰ τὸ ὕφαϲμα, quia Herod. περὶ παθῶν in E. M. 785, 26 ὕφα ex ὕφαϲμα ortum dicit; de γάλα consentit Herod. ap. Eust. 1627, 47 de affectis cf. E. M. 60, 53.
+footnote l. 12 quae apud Choerob. sequuntur, non mirum esse articulum neutr. cum feminino coniungi, quum dicatur φοίνικι λίνῳ, ἄρωξιν ὅπλοιϲ, μανιάϲι λυϲϲήμαϲι, non ab Herodiano profecta sunt, qui potius ex accusativo generis mascul. vel femin. alterum nominativum neutr. gen. τὸ κρᾶτα fictum esse videtur putasse. l. 30 cf. Dichr. 282, 15 et 290, 6.

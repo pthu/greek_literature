@@ -1,0 +1,47 @@
+@node
+@author=Libanius
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=no feature metadata have been provided; look at the name of the feature and at the data itself to get some clues
+@editor=Richard Foerster
+@filename=tlg2200.tlg00463.opp-grc1
+@funder=European Social Fund Saxony
+@principal=Gregory Crane
+@publicationStmt=University of Leipzig, tlg2200.tlg00463.opp-grc1.xml.
+@respStmt=Gregory R. Crane, Editor-in-Chief, Perseus Digital Library, Digital Divide Data, Corrected and encoded the text, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor, Greta Franzini, Project Manager (University of Leipzig), 2013-2014, Frederik Baumgardt, Technical Manager (University of Leipzig), 2013-2015, Simona Stoyanova, Project Manager (University of Leipzig), 2015, Project Assistant (University of Leipzig), 2013-2014
+@sourceDesc=Richardus Foerster, Richard Foerster, Libanius, Orationes LI-LXIV, Teubner, Leipzig, 1908, 4, Internet Archive.
+@sponsor=University of Leipzig
+@title=Oratio 63
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:57:52Z
+
+4017	footnote Β = Codex Barberinus II 41 Am = Ambrosianus Β 69 1 Ὑπὲρ Ὀλυμπίου om Am | λή post ὀλυμπίου Β 10 ποιή- σειν τἀμά Am | μηδὲ? 16 αὐτῶν scripsi αὐτῶν Β Am Sieb  17 ὁ τι scripsi ὅτι BAm Sieb | βουλεύσουσι scripsi e B sed ω in  ου corr, Am βουλεύσωσι Sieb 18 ποιήσουσιν scripsi ex Am  ποιήσουσι B Sieb
+marginal Sieb. 77
+footnote 1 τὸν inserui ex Am om B Sieb 3 αὑτῷ scripsi αὐτῶ  B Am Sieb 5 &lt;ἐν&gt; a ᾧ ? | ἐστὶν ἡ παρά ante τοῖς Β Sieb  ut dittographiam 6 βοήθεια inserui „refingebam olim sic :  ᾧ μόνον παρὰ τοῖς οἰχομένοις ἐστὶν ἡ βοήθεια παρὰ τῶν ζώντων  πρὸς τούς κατηγοροῦντας, quam coniecturam ut nimis audacem  nunc repudio, et levi tantum mutatione ita scribo: ὃ μόνον  ἐστὶν οἱ παρὰ τοῖς οἰχομένοις, ἐστὶν οἷ παρά τῶν ζώντων πρὸς  τούς κατηγοροῦντας “Sieb 7 εὐπορήσαιμι scripsi εὐπορήσαιμεν  BAm Sieb | ἐν—9 φέρειν praemissis verbis τοῦ ὑπὲρ Ὀλυμπίου  citat Macar fol. 91 (ed. Villoison Anecd. II ρ. 16 = t. I praef.  p. ΧΧΧ R) 8 καθιστάμενος — 9 φέρειν] καθίστανται ὅσοι τά  πὰρ ’ ἐκείνων σιγὴ φέρουσιν Macar | καθιστάμενος scripsi καθ- ιστάμενοι BAm Sieb 9 ἐκείνων scripsi ex Am Macar ἐκεί- vois Β Sieb 10 voce οὖν des Am 20 αὑτοῖς Sieb αὐτοῖς Β
+footnote 13 cf. p. 120, 9 sq. t. Ι 199, 18; t. II 548, 2; t. III 419, 17 1 τούτους e τοῦτο corr Β 3 signum interrogationis po- sui, comma Β Sieb 4 ταῦτα inserui 6 punctum post πόλεως  posui, colon B, signum interrogationis Sieb 12 αὑτοῦ scripsi  αὐτοῦ Β Sieb 20 ἀφειλκύσαντο scripsi ἐφειλκύσαντο B Sieb 26 τινος inserui | ἀξιοῖς scripsi ἠξίους B Sieb
+marginal Sieb. 79
+footnote 3 II. ζ 142 13 cf. t. II 372 sq. et 494 sq. 7 τις inserui 10 εὖ πεποιήκει reposui e Β εὐπεποιήκει Sieb 16 τῶν] inter τὸ et αὑτῶν Sieb delevi | αὐτῶν Sieb αὐτῶν Β 17 ἐμβαίνοντας reposui e Β ἐκβαίνοντας Sieb 18 τοὺς ante  ἄρχοντας inser Sieb delevi 23 αὐτοὺς Sieb αὐτὰς Β | αὑτῷ  scripsi αὐτῶ B Sieb
+footnote 1 προσαναγκάζοι scripsi προσαναγκάζῃ BSieb 5 βου- λομένου] „hic inserendum videtur ἐκείνου“ Sieb 8 καὶ can- cellavi 10 τοῦ ante Ὀλυμπίου Sieb delevi 13 τἄλλα scripsi  τ’ ἄλλα Β Sieb | ἀπαιτοῦσι τί Β Sieb 15 τί Β 17 ὅ Sieb  ὁ Β 26 ᾧ δ’ scripsi ᾧδ’ B Sieb | σχετλιάσαι καὶ καλέσαι  scripsi σχετλιάσῃ καὶ καλέσοι B Sieb Sieb. 80
+footnote 6 Dem. ρ. 241,28; 1481,17 2 τε τῆς scripsi καὶ Β Sieb 4 ἐπαίνου scripsi ἐπαίνων  οὐ Β Sieb 6 ἐάν (1) scripsi ἄν Β Sieb 8 καθῶνται scripsi  κάθηνταί Β κάθηνται Sieb 16 αὑτῷ scripsi αὐτῷ Β Sieb 20 πλείω scripsi πλέω B Sieb 23 δ' (1) Sieb
+marginal Sieb. 81
+footnote 1 Ant. tetr. Ι 2 § 15 ρ. 117, 4 13 sq. Luc. Alex. 4 c. schol.  ed. Rab. ρ. 180, 28 sq. Aeschin. fals. leg. § 40 p. 83, 24 14 cf.  ad t. Ι 170, 8; III 37, 7. Plat. Prot. p. 327 D. Aeschin. Ctes. § 137 1 μαίνεσθαι scripsi coll. Ant. l. l. φαίνεσθαι B Sieb qui  οὐ anteponendum coni 2 ἡ Sieb οἱ Β 10; posui . Β Sieb |  ῥᾳδίως scripsi ῥᾴδιον Β Sieb 12 δή om Sieb 17 τὸν (3)  reposui e Β τῶν Sieb | τοσούτων Sieb τοσοῦτον Β 21 ὅπως  inserui e B, ut inserendum coni Bastius, Lettre critique a Bois- sonade p. 128: „il faut suppleer auant ἔσονται, ὅπως, ἔστε ου  un mot “ om Sieb 22 τί Β
+marginal Sieb. 82
+footnote 8 cf. ad t. III 38, 2 9 cf. t. III 26, 17 21 cf. t. II 77, 21 1 τόν τε ἄλλον ἣν χρόνον repsui e Β τῶν τε ἄλλων ἦν  χρόνων Sieb 5 τεμούσης scripsi τεκούσης Β Sieb 6 ἀνα- γαγούσης? 8 φασί scripsi coll. t. III 33, 2 φησὶ Β Sieb  13 καὶ φίλος inserui καὶ εὐσεβὴς inser coni Sieb 14 ἑκάτερον  reposui e Β ἑκατέρως Sieb 17 ἄξιος scripsi ἄξιον Β Sieb |  ἀνθρώπῳ— 18 προπηλακίσαι citat Macar (ed. Villois. Anecd. t. II  Ρ. 16= t. Ι praef. p. XXX R) | πάντων ἀνθρώπῳ ῥᾷστον scripsi  κάντων ἀνθρώπων ῥᾷον B Sieb ἀνθρώπῳ παντἱ ῥᾷστον Macar
+marginal Sieb. 83
+footnote 6 Plat. Gorg. p. 512 B 26 Plat. rep. VIII p. 564 D; Crit. p. 54 D 1 ἔχουσιν Sieb 2 ἑαυτοῖς reposui e Β αὐτοῖς Sieb  4 ὑμῖν reposui e Β coll. t. III 370, 22 R sed fortasse etiam  ἐν anteponendum ὑμῶν Sieb 6 καταστρώσειν? cf. Ken Cyr.  III 3, 64; Her. VIII 53, 2 8 μὴ ταῦτα, τίνος scripsi μὴ τίνος  (τινὸς α Sieb) ταῦτα Β Sieb 14 καὶ cancellavi 23 τί B
+marginal Sieb. 84
+footnote 1 ἦν reposui e Β ἦ Sieb 4 τε νόμων scripsi γενομένων  Β Sieb 6 ὃς scripsi ὡς Β Sieb | νῦν et 7 τοῖς inserui e Β  om Sieb 7 δὴ Sieb δέ Β 9 num ἐξομοσάντων? cf  tit. Delph. Bull. de Corr. Hell. XXXI 47, 28 10 τετιμωρημένων? 13 et 14 ταὐτὰ scripsi ταῦτα Β Sieb τί Β | ὄντες  inserui 19 ἔχοι scripsi ἔχει Β Sieb 21 περιουσίας scripsi  περὶ οὐσίας Β Sieb 23 δελεάσοντα scripsi δελεάσαντα Β Sieb |  κακῶς scripsi καλῶς Β Sieb 24 αὐτοῦ scripsi αὐτοῦ B Sieb |  ἐνὶ reposui e Β ἐνὶ Sieb
+footnote 3 τῷ scripsi τὸ Β Sieb | φασί scripsi, ut coni Sieb φησὶ  B Sieb 9 ἀποστροφήν scripsi coll. p. 153, 14; t. II 434,20; III  457, 12 ἀποτροφὴν Β Sieb 10 αὑτῶν scripsi αὐτῶν Β Sieb 12 πάντως scripsi πάντες Β Sieb 16 πράττοντες scripsi  παριόντες Β Sieb | μᾶλλον inserui 18 αὑτῶν scripsi  αὐτῶν Β Sieb 20 διαθήκαις scripsi διαθήκας B Sieb  21 οὐ τὴν inserui | αὐτὸν scripsi αὐτὸν B Sieb
+marginal Sieb. 85
+footnote 6 II. ω 3 sq. 11 Dem. c. Aph. Ι ρ. 818,8 2 εἴ γέ τις scripsi εἴτε τὶς Β Sieb 9 τε scripsi  γε Β Sieb | οὗτοι scripsi αὐτοὶ Β Sieb 11 ἐταμίευε  scripsi ἐβάδιζε Β Sieb qui ἐκόμιζε coni 12 ἐπίπονον re- posui e Β ἐπὶ πόνον Sieb | ὁ δ’ scripsi ὅδ' Β ὁδ  Sieb 14 οὐδὲ inserui lac 5 litt Β Sieb qui ἡμέρας τε καὶ  supplendum coni 18 παντὸς — 399,1 πατέρα omissa γὰρ  particula citat Macar (ed. Villoison Anecd. t. II ρ. 16 = t. |  praef. p. XXX R) 19 πρὸς ἀγάπην reposui e Macar σημεῖον  Β Sieb | φιλῶν scripsi φίλων Β Macar Sieb γὰρ inserui e Macar  om B Sieb | τὸν Scripsi πρὸς B Macar Sieb 20 ἂν κατα- βλάψαι scripsi coll. t. II 88, 22 ἐγκαταβλάψαι B Macar Sieb  ἀπέκτεινε reposui e B Macar ἀπέκτανε Sieb
+footnote 1 cf. p. 65, 4; 186, 9; t. III 282, 10; 483, 20 9 cf. ep.  574 | cf. ep. 96 2 υἱέων scripsi ὑέων Β Sieb 5 εἰσάγει scripsi εἰσάγων  Β Sieb 10 Μίκκαλον scripsi hic et in sequentibus coll. epp.  96, 97, 149, 160, 558, 616, 664, 665, 1080 Μίκαλλον constanter  Β Sieb 13 ὃ τι scripsi ὅτι Β Sieb | ἐθέλῃ scripsi ἐθέλοι  B Sieb 15 μείζω inserui 16 οὑν inserui e Β om Sieb | αὑτοῦ  scripsi αὐτοῦ Β Sieb 19 ὁ δ’ scripsi ὅδ' B Sieb 21 αὑ- τὸν reposui e Β αὐτὸν Sieb 23 ὅ τι scripsi ὅτι Β Sieb
+marginal Sieb. 87
+footnote 9 cf. t. 9, 1 6 &lt;ἐπὶ&gt; a παραμυθίᾳ? 8 τελευτὴν καὶ ταῦτα καὶ  τελευτὴν καὶ ταῦτα Β Sieb 9 τὸ scripsi τῷ Β Sieb | μηδὲ  scripsi μὴ δὲ Β μὴ δὴ Sieb 17 γε scripsi τε Β Sieb  20 ἀδίκου scripsi ἀοίκου Β Sieb 21 ὁ δ’ scripsi ὅδ'  Β Sieb 23 λοῦσθαι reposui e Β λοῦεσθαι λαβά- μενον coni Sieb perperam
+footnote 22 Thuc. IV 87, 4 | Lib. t. Ι 201, 1; ep. 971 2 ῥήμασι scripsi ῥήμασιν Β Sieb 4 num Γίγαντας post  τούς inserendum coll. t. Ι 129, 4? 5 αὐτῶν scripsi τῶν Β  Sieb 19 τινες inserui e Β om Sieb ὅ τι scripsi ότι  Β Sieb | εἰς inserui e Β om Sieb 23 ὧν scripsi auctore  Sieversio p. 282, 1 ᾧ B Sieb Sieb. 88
+footnote 2 δέ scripsi τε Β Sieb 3 ὧντινων scripsi ὧντινων Β  Sieb 7 δ’ cancellavi | ἣν reposui β Β ἤν Sieb 9 αἰτίαν  scripsi αἰτίας Β Sieb | φίλτρῳ ? 10 ἔστι scripsi δὲ τὸ Β  Sieb | αὑτὸν scripsi αὐτὸν Β Sieb ἀποστεροῦντι scripsi  καὶ στεροῦντι Β Sieb 16 μείζονα coni Sieb 18 φθόνου?  cf. t. Ι p. 480, 1 1 26 αὐτῶν scripsi αὐτῶν B Sieb
+footnote 1 μοι τίς Β 5 τοῦτο scripsi τούτου Β Sieb 9 τούτῳ  οὐ] τούτοις? 10 τίς Β 19 ὧς scripsi ὥστ' B Sieb  21 signum interrogationis posui, comma Β, colon Sieb τῇδε  scripsi τῇ δέ B Sieb 23 αὑτοῖς scripsi αὐτοῖς B Sieb  27 δὲ scripsi τε Β Sieb | τούτων reposui e Β αὐτῶν Sieb

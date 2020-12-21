@@ -1,0 +1,280 @@
+@node
+@author=Herodianus
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=the original format of the word without interpunction
+@editor=August Lentz
+@filename=tlg0087.tlg009a.1st1K-grc1
+@funder=Harvard Library Arcadia Fund
+@principal=Gregory Crane
+@publicationStmt=Harvard College Library, tlg0087.tlg009a.1st1K-grc1.xml.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Gessner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig) 2015 - 2017, Bruce Robertson, Technical Advisor
+@sourceDesc=Herodiani Technici Reliquiae, August Lentz, Aelius Herodianus, Teubner, Leipzig, 1868, 2, Grammatici Graeci, 3.2.1, Hathi Trust.
+@sponsor=University of Leipzig
+@title=Ἐκ τῶν Ἡρωδιανοῦ ὑπομνημάτων τῶν περὶ παθῶν Διδύμου
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:58:14Z
+
+Il. 
+Pros. 
+Λ 160: 
+κειν᾿: 
+λέγει 
+ὁ 
+τεχνικὸϲ 
+ἐν 
+τῷ 
+α΄ 
+ὑπομνήματι 
+τῷ 
+περὶ 
+παθῶν 
+Διδύμου· 
+τὰ 
+ὀξύτονα 
+ἡνίκα 
+ἐκθλίβηται 
+τὴν 
+ ὀξυνομένην 
+ϲυλλαβήν, 
+ἀναπέμπει 
+τὴν 
+ὀξεῖαν 
+ἐπὶ 
+τὴν 
+ὀπίϲω 
+ϲυλλαβήν, 
+καὶ 
+ἐὰν 
+ᾖ 
+ἡ 
+ἐκθλιβεῖϲα 
+ϲυλλαβὴ 
+ἡ 
+ἔχουϲα 
+τὴν 
+ὀξεῖαν 
+βραχεῖα, 
+ἡ 
+δὲ 
+ὀπίϲω 
+ϲυλλαβὴ 
+φύϲει 
+μακρά, 
+τῷ 
+τονικῷ 
+παρεγγέλματι 
+γίνεται 
+περιϲπώμενον. 
+περιϲπᾶ 
+γοῦν 
+τὸ 
+δεῖλ᾿ . 
+ἐν 
+δὲ 
+τῇ 
+Ὁμηρικῇ 
+προϲῳδίᾳ 
+ἐναντιοῦται 
+τούτῳ.
+2.Il. 
+Pros. 
+P 201: 
+ζητεῖ 
+ὁ 
+Ἡρωδιανὸϲ 
+ἐν 
+τῷ 
+α' 
+ὑπομνήματι 
+τῷ 
+περὶ 
+παθῶν 
+Διδύμου 
+περὶ 
+τοῦ 
+ἆ 
+δεῖλ᾿, 
+πῶϲ 
+δεῖ 
+τονίζειν 
+αὐτὸ 
+καί 
+φηϲι. 
+πολὺ 
+δὲ 
+πρότερον 
+παρὰ 
+τῷ 
+ποιητῇ 
+ἐϲτὶ 
+τὸ 
+τῆϲ 
+ἀναγνώϲεωϲ 
+«ἆ 
+δείλ᾿ 
+οὐδέ 
+τί 
+τοι 
+θάνατοϲ» 
+ἢ 
+«ἆ 
+δεῖλ᾿ 
+οὐδέ 
+τί 
+τοι 
+θάνατοϲ». 
+τὸ 
+ γὰρ 
+πλῆρέϲ 
+ἐϲτιν 
+ἆ 
+δειλέ· 
+οὐ 
+γάρ, 
+ὡϲ 
+οἱ 
+ἐξηγηϲάμενοι, 
+τοῦ 
+δείλαιε 
+ἀποκοπή. 
+ἐν 
+ἑτέροιϲ 
+γὰρ 
+αὐτὸϲ 
+λέγει 
+«ἆ 
+δειλώ, 
+τί 
+νυ 
+δάκρυ 
+κατείβετον» 
+(Od 
+φ 86). 
+περιγέγραπται 
+οὖν 
+ἡ 
+ὀξεῖα, 
+εἶτα 
+καὶ 
+ἀνάπαυϲιϲ 
+γέγονεν. 
+ἆρα 
+οὖν 
+φυλαχθήϲεται 
+ἡ 
+ὀξεῖα, 
+ἢ 
+ἐπεὶ 
+περιγέγραπται 
+τὸ 
+φωνῆεν 
+τῆϲ 
+ὀξείαϲ 
+περιγέγραπται 
+καὶ 
+ὁ 
+τόνοϲ; 
+τὸ 
+κρινόμενον 
+ἐκεῖνο, 
+ ἵνα 
+ἐπιϲτάμενοι 
+ἀναγνῶμεν. 
+ἕν 
+ἐϲτιν 
+εἰπεῖν, 
+εἰ 
+ἅπαξ 
+περιγέγραπται 
+τὸ 
+φωνῆεν 
+τὸ 
+ἔχον 
+τὴν 
+ὀξεῖαν, 
+ὁ 
+τόνοϲ 
+γενέϲθω 
+τῆϲ 
+προτέραϲ 
+ϲυλλαβῆϲ, 
+οὐχὶ 
+τῆϲ 
+ἐπὶ 
+τέλουϲ.
+3.Schol. 
+A 
+ad 
+Il. 
+Γ 272 
+et 
+E. 
+M. 116, 51: 
+ἄωρτο· 
+ἄρω 
+ἐϲτὶ 
+τὸ 
+ ϲημαντικὸν 
+τοῦ 
+ἁρμόζω, 
+οὗ 
+μέλλων 
+ἄρϲω, 
+ἀόριϲτοϲ 
+ἦρϲα 
+«Θέτιϲ 
+ὤμοιϲιν 
+ἐπῆρϲεν» 
+(Il. 
+Ο 167 
+et 339) 
+ἀντὶ 
+τοῦ 
+ἐφήρμοϲεν 
+«καὶ 
+πώμαϲιν 
+ἄρϲον 
+ἅπαντα» 
+(Od. 
+β 353) 
+ἀντὶ 
+τοῦ 
+ἐφάρμοϲον. 
+τοῦ 
+ἄρω 
+ὁ 
+παρακείμενοϲ 
+ἦρκα, 
+ὁ 
+παθητικὸϲ 
+ἦρμαι, 
+ὑπερϲυντέλικοϲ 
+ἤρμην, 
+τὸ 
+τρίτον 
+ἦρτο, 
+ϲυϲτολῇ 
+ἄρτο, 
+ἐπενθέϲει 
+τοῦ 
+ω 
+ἄωρτο 
+ὥϲπερ 
+εἶθα 
+εἴωθα. 
+οὕτωϲ 
+ Ἡρωδιανὸϲ 
+ἐν 
+τῷ 
+β΄ 
+ὑπομνήματι 
+τῷ 
+περὶ 
+παθῶν 
+Διδύμου.

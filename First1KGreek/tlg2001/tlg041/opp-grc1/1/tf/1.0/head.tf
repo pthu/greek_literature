@@ -1,0 +1,26 @@
+@node
+@author=Themistius
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=open tag without further specification. See the name of the .tf-file for it's meaning
+@editor=Paul Wendland
+@filename=tlg2001.tlg041.opp-grc1
+@funder=European Social Fund Saxony
+@principal=Gregory Crane, Monica Berti
+@publicationStmt=University of Leipzig, tlg2001.tlg041.opp-grc1.xml.
+@respStmt=Gregory R. Crane, Editor-in-Chief, Perseus Digital Library, Digital Divide Data, Corrected and encoded the text, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor, Greta Franzini, Project Manager (University of Leipzig), 2013-2014, Frederik Baumgardt, Technical Manager (University of Leipzig), 2013-2015, Simona Stoyanova, Project Manager (University of Leipzig), 2015, Project Assistant (University of Leipzig), 2013-2014
+@sourceDesc=Paulus Wendland, Themistius, Typis et Impensis Georgii Reimeri, Berlin, 1903, Commentaria in Aristotelem Graeca, 5, 6, Internet Archive.
+@sponsor=University of Leipzig
+@title=(Sophoniae) In Parva Naturalia Commentarium
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T15:07:48Z
+
+17324	 ΠΑΡΑΦΡΑΣΙΣ ΕΙΣ TO ΠΡΤΙ ΜΝΗΜΗΣ KAI ΑΝΑΜΝΗΣΕΩΣ KAI Ell TA ΤΟΥΤΟΙΕ EHOMENA ΒΙΒΛΙΑ ΑΡΙΣΤΟΤΕΛΟΥΣ, ΤΟΥ ΣΟΦΩΤΑΤΟΥ ΚΥΡΙΟΥ ΣΟΦΟΝΙΟΥ
+ ΠΕΡΙ ΥΠΝΟΥ ΚΑΙ ΕΡΡΗΡΟΡΣΩΣ.
+ ΠΕΡΙ ΕΝΥΠΝΙΩΝ.
+ HEPI THΣ ΚΑΘ ΥΠΝΟΝ ΜΑΝΤΙΚΗΣ.

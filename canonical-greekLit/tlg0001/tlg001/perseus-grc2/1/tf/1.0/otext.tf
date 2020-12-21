@@ -1,0 +1,29 @@
+@config
+@author=Apollonius Rhodius
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@editor=Ludovicus Dindorfius
+@filename=tlg0001.tlg001.perseus-grc2
+@fmt:text-orig-full={pre}{orig}{post}
+@fmt:text-orig-main={main} 
+@fmt:text-orig-plain={plain} 
+@funder=Tufts University
+@placeName=Ctesiphon
+@principal=Gregory Crane
+@publicationStmt=Trustees of Tufts University, Medford, MA, Perseus Project, 2002.
+@respStmt=Prepared under the supervision of, Bridget Almas, Lisa Cerrato, Rashmi Singhal, David Smith
+@sectionFeatures=book,card,card
+@sectionTypes=book,card,card
+@sourceDesc=Argonautica, Apollonius Rhodius, George W. Mooney, London, Longmans, Green, 1912.
+@sponsor=Perseus Project, Tufts University
+@structureFeatures=_book,book,card,card,_sentence,_phrase
+@structureTypes=_book,book,card,card,_sentence,_phrase
+@title=Argonautica
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:38:42Z
+

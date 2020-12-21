@@ -1,0 +1,39 @@
+@node
+@author=Artemidorus
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@editor=Roger A Pack
+@filename=tlg0553.tlg001.1st1K-grc1
+@funder=Harvard Library Arcadia Fund
+@principal=Gregory Crane
+@publicationStmt=Harvard College Library, tlg0553.tlg001.1st1K-grc1.xml.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), 2015 - 2017, Bruce Robertson, Technical Advisor
+@sourceDesc=Artemidori Daldiani Onirocriticon, Roger A. Pack, Artemidorus, Lipsiae, In Aedibus B. G. Teubneri, 1963, SLUB Dresden.
+@sponsor=University of Leipzig
+@title=Onirocriticon
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:55:21Z
+
+1-62583	word
+62584	_book
+62585-69370	_phrase
+69371-72143	_sentence
+72144-72416	add
+72417-72421	book
+72422-72726	del
+72727	edition-grc
+72728-72755	gap
+72756-72760	head
+72761-72779	l
+72780-74184	lb
+74185-74196	lg
+74197-74465	note
+74466-75036	p
+75037-75360	pb
+75361-75757	section
+75758-75779	sic

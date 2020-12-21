@@ -1,0 +1,34 @@
+@node
+@author=Plutarch
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@editor=Gregorius N. Bernardakis
+@filename=tlg0007.tlg108.perseus-grc1
+@funder=The National Endosment for the Humanities
+@placeName=Ctesiphon
+@principal=Gregory Crane
+@publicationStmt=Trustees of Tufts University, Medford, MA, Perseus Project.
+@respStmt=Prepared under the supervision of, Lisa Cerrato, William Merrill, Elli Mylonas, David Smith
+@sourceDesc=Plutarch, Moralia, Gregorius N. Bernardakis, Leipzig, Teubner, 1891, 3.
+@sponsor=Perseus Project, Tufts University
+@title=De fato, Machine readable text
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:39:17Z
+
+1-3605	word
+3606	_book
+3607-4103	_phrase
+4104-4260	_sentence
+4261-4412	foreign
+4413-4416	gap
+4417-4428	p
+4429-4446	pb
+4447-4458	section
+4459-4499	stephpage
+4500-4577	tlnum
+4578-4584	yes-unspecified

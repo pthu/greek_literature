@@ -1,0 +1,60 @@
+@node
+@author=Lucianus Samosatenus
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=no feature metadata have been provided; look at the name of the feature and at the data itself to get some clues
+@editor=A. M. Harmon
+@filename=tlg0062.tlg045.1st1K-grc1
+@funder=Harvard Library Arcadia Fund
+@principal=Gregory Crane
+@publicationStmt=Harvard College Library, tlg0062.tlg045.1st1K-grc1.xml.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor
+@sourceDesc=Lucian, A. M. Harmon, Lucianus Samosatenus, Harvard University Press, Cambridge, Mass, 1962, 5, The Internet Archive.
+@sponsor=Harvard College Library
+@title=De saltatione
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:52:27Z
+
+8159	footnote 1 ὀρχήσεως A.
+footnote 1 κυκλίων Ν: κυκλι ων Γ (i.e., space left and accent omitted because of variant reading in original): κυκλικῶν (ECA) vulg. Cp. § 26 αὐλητὰς κυκλίους. 1 Parthenope, the beloved of Metiochus the Phrygian, was the heroine of a lost romance; on the extant fragment, see New Chapters in the Hist. of Greek Lit., III, 238-240. Rhodope is probably the Thracian mentioned below in § 51, who married Haemus, her brother; they insolently likened themselves to Zeus and Hera, and were turned into the mountains known by their names.
+footnote 1 πεφηνέναι ΓNE2.
+footnote 1 μοι λοιπὸν C; but cf. Pseudol., 13 πάνυ γοῦν τοῦτ᾿ ἐστὶ τὸ λοιπόν. 2 ὥρας Γ: ὥραισιν cett. (but E by the second hand, in an erasure); ὥρασιν Jacobitz. The same variations occur elsewhere: Dial. Deor., 6, 5 ὥρας Γ; ὥραισιν cett.; Dial. Mer.,
+footnote 1 μετ᾿ ὀλίγον Fritzsche: κατ᾿ ὀλίγον MSS.
+footnote 1 That is to say, the Hesiodean, cosmogonic Eros, elder brother of the Titans, not Aphrodite's puny boy. 2 The Corybantes, mentioned frequently by Lucian, are to him male supernatural beings (Timon, 41), alien denizens of Olympus like Pan, Attis, and Sabazius (Icarom.,   cf. Parl. of the Gods, 9), whom Rhea attached to herself because they too were crazy; in her orgies, one cuts his arm with a sword, another runs about madly, another blows the Phrygian horn, another sounds some instrument of percussion (Dial. Deor., 12, 1; cf. Tragodopod., 38). He does not ascribe to them any regular dance, or confuse them with the Curetes, as others often did.
+footnote 1 Since Neoptolemus was also called Pyrrhus, it was inevitable that the, invention of the Pyrrhic dance should be ascribed to him. According to Archilochus (Fr. 190 Bergk), he originated it when he danced for joy over killing Eurypylus. That Achilles was more Pleased hear of this than when Odysseus told him of his son's beauty and bravery (Odyssey, XI, 505—540) is known to us only from Luncian, as also the real reason for the fall of Troy. Lucian's persiflage derives especial point from the fact that by this time the Pyrrhic had become anything but a war-dance. Athenaeus does not hesitate to call it Dionysiac (XIV, 631A) and compare it with the cordax. 2 This statement is decidedly unorthodox. Others say that the Spartans derived their war-dances from Castor and
+footnote 1 κωμάξατε Γ2: κωμάσατε Γ1 vulg. 2 γυμνοπαιδίαι Meursius: γυμνοποδίαι MSS. 3 ἐδίνεον N (du Soul): ἐδίνευον cett. 1 We have no knowledge of these two songs from any other sources. Lucian's quotation from the second is given among the Carmina Popularia by Bergk (17) and Diehl (22).
+footnote 1 φησί C, edd. 1 Odyssey, VIII, 256–258. 2 No such inscriptions are known to us, and fear there is
+footnote 1 That the “hyporchematic” style of dancing was interpretative, which in Luacian's description of it is only implicit, is expressly stated by Athenaeus (I, 15 D). In previously referring to it as “dance accompanying song (τὴν πρὸς ᾠδὴν ὄρχησις), he seems to agree with Lucian in the point that its performers do not themselves sing. Elsewhere in his work (XIV, 631 C) he gives a definition (from Aristocles) that is diametrically opposed: “when the chorus dances singing.” But this is connected wit a highly theoretical classificastion
+footnote 1 τὸν καιρὸν Urban: τὸν αὐτὸν καιρὸν MSS. 2 φησὶν Harmon: (ὃς) MSS. The relative, a gloss, has displaced the verb, which itself, when abbreviated, often makes trouble; cf. p. 238, n. l, below.
+footnote 1 φασίν Harmon: ὃς ΓΩΦC: not in EΝ. 2 αὑτοῦ Madvig: αὐτοῦ Φ Vat. 87: αὐτοῖς ΓΝ (ΕΩC). 3 παιδιὰν NE2. ὀρχηθμός Α. 1 This Bithynian myth of Praipus is not recorded elsewhen but as it is known that Priapus was held in high honour there, it may well be that he was associated with Ares and that armed dances played a part in the cult.
+footnote 1 ἀπονέμων C. 1 Iliand, XIII, 730, 731. But after ὀρχηστόν Lucian substitutes atitutes for ἐτέρῳ κίθαριν καὶ ἀοιδήν the  close of Odyssey, I, 421.
+footnote 1 and κωμῳδικὴ ΦC: τραγικῇ, and κωμωδικῇ ΓΕΝ. 2 τρίτης C: τρίτη ΓΕΦΝ.
+footnote 1 οἱ αὐτοὶ N (Seager, Struve): but Fritzsche was right in objecting. CF. infra, ἄλλους αὐτοῖς ὑπᾴδειν. 1 I.e., it is in art what a solecism is in grammar. 2 Names of slaves in comedy.
+footnote 1 The allusion is to Naples and to the important games instituted there by Augustus in 2 A. D., on which see R. M. Geer, “The Greek  Games at Naples,” Transactions of the
+footnote 1 θεμέλια C, conrary to Lucianic usage. 2 ὅσπερ ΕΦΩ Ν2: ὥσπερ ΓΝ1: ὅπερ (C) A. 3 τοῦτον οὖν Γ1: τοῦτο νῦν Γ2, other MSS. Cf. 4 σφόδρα καὶ καματηρὰ EΝ: καὶ omitted in other MSS. Cf. Hist. Conscr. 43.
+footnote 1 διαλαθεῖν C, but cf. § 76. 2 τῆς ὑποσχέσεως ΓΕΦ: τῆς ὑποθέσεαως (ΩC) vulg. Ν omits. Cf. Pisc., 31.
+footnote 1 ἀμφοτέρου C. 1 Thucydides, II, 60. 2 The compendium of mythology that follows is notable not only for its brevity but for its arrangement on geographical lines, which is unique, and I think was adopted by Lucian as an aid to memory, since the passage was clearly composed off-hand and very little retouched. He must have thought of it not only as displaying his own command of mythology and knowledge of what Pindar calls “the short road” in story-teling, but as a help to dancers, libretto-writers, and audiences, and incidentally of interest to the latter as a memoryteat (cf. True Story, I; The Dead Come to Life, 6; Mistaken Critic, 6), This is certainly the way in which most of its
+footnote 1 ἀνθρωπείου C. 1 Two eagles let fly by Zeus, one from the east, the other from the west, met at Delphi; the Navel-stone (Omphalos) marked the spot, the centre of the earth, and had two eagles of gold set up by it (Pindar, Pyth., IV, 6, with the scholia; Frazer, Pausanias, Vol. V, pp. 314—315). 2 Dionysus Zagreus (Sabazius), son of Persephone, was dismembered by the Titans, boiled in a cauldron, and eaten; Zeus swallowed his heart. He was reborn as Iacchus.
+footnote 1 καὶ τὴν Ἰνοῦς Bekker, but more than that has been lost. No lacuna in MSS. 1 Minos tied her to the stern of his ship and dragged her in its wake. In representing this as an “expedient,” Lucian
+footnote 1 Πελοπίας MSS. 2 So (Κλυτεμήστρας) Γ: other MSS. -μν-. 1 Daughter of Thyestes, and by him mother of Aegisthus (Hyginus 87 and 88; cf. Frazer, Apollodors, II, p. 168, n. 1). She is mentioned as a pantomimic role by Juvenal, VII, 92 praefectos Pelopea facit, Philomela tribunos. 2 One of Adrastusʼ daughters was to wed a boar, the other a lion. Tydeus had a boar for his shield-device, Polynices a lion.
+footnote 1 δὲ ΓΕΦΩΑ: δέον N, δεῖ vulg. 2 δεῖ μάλιστα Harmon: ἀεὶ μάλιστα MSS. Many editors punctuate ἀεί, μάλιστα, but μάλιστα cannot be taken with what follows. 1 The tale is told by Lumcian in Dialogues of the Gods, 16 (14), and there too the scene is laid in Sparta; cf. Apoll., III, 10, 3. It figured also among the tales of Northern Greece (Apoll, I, 3, 3). 2 Dido's story essentially as it was told in the Greek of Tinaeus may still be read in the Latin of Justin (XVIII, 4—6); but Aeneas played no part in it. Hin introduction into it
+footnote 1 Probably the wrestling match between Cronus and Zeus, by which Zeus won poasession of Olympia, is meant here rather than the games in which the gods competed under the presidency of Zeus (Paus., V, 7, 10), or the wrestling match between Zeus and Heracles (Lyc., 39—43), or the games held by Heracles, in which the competitors were his contemporaries (Pindar, Ol., X, 60—75) 2 The Minotaur, and the bull that fathered him. 3 Clearly Lucian has in mind the legend that made them daughters of Earth (Eur, Hel., 168), engendered of the blood
+footnote 1 ἔτι vulg.: ἐπὶ ΓΕΦΝΩΑ. 1 Apollonius of Rhodes (III, 616—682) describes at some length a dream of Medeaʼs, shortly after the arrival of Jason, to the effect that he came to win her, that she helped him with the oxen; that she was chosen to arbitrate the atrife that arose, and decided in Jason's favour; wherenpon her parents clamoured, and she awoke. Since this dream is not traditional, its inclusion in Lucian's list is perhaps to be explained by assuming that he knew of its actual use as a pantomimic theme.
+footnote 1 ὅσοι Bekker: ὅσαι MSS. 2 Σελεύκῳ Harmon: Σελεύκου MSS. 3 μετεσκεύασεν εἴσεται, καὶ Harmon: μετεσκεύασεν. εἴσεται δὲ καὶ MSS. 1 Caeneus and Tiresias are coupled also in Gallus, 19. On Caeneus, a woman who at her own request was changed by Poseidon into a man, see especially Sir J. G. Frazer's note on Apoll, Epit., I, 22. 2 Mother of Adonis, called Smyrna by Apollodorus (III, 14, 4); cf. Ovid, Met., X, 298—518. 3 The words πένθος μεριζόμενον, which I have translated “dissevered woe,” seem to me to be certainly sound, and to reflect the identification of Adonis with Osiris then current, the piecemeal recovery of his dismembered body (with, no
+footnote 1 γοητευομένων φ2 vulg.: γοητευομένοις ΓΕΦ1 ΩΝ. 1 That given to Croesus, Herod., I, 47; there was, of coarse, no reference to dancing in it. The maid of Pytho vaunted her knowledge of the number of the sands and the measure of the
+footnote 1 ὑποδεδυκότα 1.
+footnote 1 οἰκίαν MSS, corrected by Jacobitz. 2 Text Madvig: οἶδε(ν) γοῦν καὶ ἐν ἐκείνοις μᾶλλον ἐπαινονμένη τὸ (τῷ) MSS.
+footnote 1 ἔχων ΓΦΝΕΑ: ἴσχον vulg. The quotation is inexact, and less complete than in Athen., XII, 513 C: ὦ τέκνον, ποντίουν θηρὸς πετραίον χραωτὶ μάλιστα νόον, προσφέρων πάσαις πολίεσσιν ὁμίλει. 2 συνοικειοῦν vulg.: συνοικεῖν MSS.
+footnote 1 τὸ Ν only. 2 κατέσπαρται A. 1 Because of their extensive use of gestures. For the word see also Rhet. Praec., 17 (Vol. IV, p. 157), where it is recommended by the sophist, and Lexiph., 14 (p. 312 of this volume), where it is used by Lexiphanes. 2 Repulic, IV, 436-441.
+footnote 1 εἶτ’ οὖν Fritzsche: εἰ γοῦν MSS.
+footnote 1 ὁρᾶς μὲν τὸ ΓΝΕΑ. 2 εἶναι Harmon: not in MSS.
+footnote 1 ὦ Harmon: ὧς MSS. σὺ Fritzsche, ὅδ᾿ Bekker. 2 φεῖσαι ΓΩ: φεῖσθαι E, πεφεῖσθαι NA. 3 ὑπεμνήσθην ΓΕ.
+footnote 1 μᾶλλον ἤπερ Fritzsche: μᾶλλόν περ ἢ MSS.
+footnote 1 Text E2: ὥσπερ ἐν κατόπτρῳ ὀρχηστῇ Ε1ΓΑ: ὥσπερ κατόπτρῳ τῷ ὀρχηστῇ Ν.
+footnote 1 Compare with this story that told of Pylades by Macrobius (Sat., II, 7, 16): cum in Hercule furente prodisset et non nullis incessum histrioni convenientem non servare videretur, deposita persona ridentes increpuit μωροί, μαινόμενον ὀρχοῦμαι. hac fabula et sagittas iecit in populum.
+footnote 1 ἄλλο Jaco bitz: ἀλλὰ MSS. (ἄλλα . . . γελοιότερα Ν). 2 συστασιωτῶν 2. 3 παραιτησάμενος, “Τὸν ὑποκριτήν,” ἔφη Harmon: παραστησά τὸν ὑποκριτὴν ἔφη MSS.

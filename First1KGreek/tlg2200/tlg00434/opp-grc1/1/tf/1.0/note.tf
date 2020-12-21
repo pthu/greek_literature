@@ -1,0 +1,54 @@
+@node
+@author=Libanius
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=no feature metadata have been provided; look at the name of the feature and at the data itself to get some clues
+@editor=Richard Foerster
+@filename=tlg2200.tlg00434.opp-grc1
+@funder=European Social Fund Saxony
+@principal=Gregory Crane
+@publicationStmt=University of Leipzig, tlg2200.tlg00434.opp-grc1.xml.
+@respStmt=Gregory R. Crane, Editor-in-Chief, Perseus Digital Library, Digital Divide Data, Corrected and encoded the text, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor, Greta Franzini, Project Manager (University of Leipzig), 2013-2014, Frederik Baumgardt, Technical Manager (University of Leipzig), 2013-2015, Simona Stoyanova, Project Manager (University of Leipzig), 2015, Project Assistant (University of Leipzig), 2013-2014
+@sourceDesc=Richardus Foerster, Richard Foerster, Libanius, Orationes XXVI-L, B.G. Teubner, Leipzig, 1906, 3, Internet Archive.
+@sponsor=University of Leipzig
+@title=Oratio 34
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:57:49Z
+
+2978	marginal R II 266
+footnote C = codex Chisianus Α = Monacensis gr. 483 (Augustanus) Ρ = Palatinus gr. 282 Ι = Marcianus append. XCI 2 Pa = Patmius Mo = Monacensis gr. 101 V = Vindobonensis phil. gr. XCIII 1 λδ ante πρὸς A | πρὸς τοὺς μαθητὰς ἕνεκα τῶν ὑβρισάν-των λόγος ἴε Μacar fol. 90 2 λδ post βλασφημίας· C, λόγος εἰκοστὸς πέμπτος V rubr, λόγος λβ΄ Pa, λόγος ιζ΄ in marg I3 4 ῥᾳδίους Mor sed ῥᾳδίως coni 7 γίνεσθε CV 9 ἵστα Μο ἵσα Mor 10 διαφύγητε CIMo Mor
+marginal R II 267
+footnote 21 τελέσειε] ἤτοι κατέβαλε μισθὸν τῷ διδασκάλῳ τοῦτο παρὰ Πλάτωνι συχνόν V2 1 τῷ scripsi e V coll. t. II 422, 4 τῶι Α τὸ Ι τὸ reliqui libri edd 3 „malim ἀντικατηγορεῖν“ Re 5 σεσυκοφαντη-μένω Μο 7 πονεῖν V sed ν (1) ex ι corr m2 | δὲ om Mor 10 τὰ Ι sed ἃ suprascr m3 | συνέβη γενέσθαι CPaMo Mor 11 ἔχοιμι Mor 13 προάγωνι Α sed ~ supra ω eras 14 πε-ποιηκώς Μο Μοr 15 κεκρατηκὼς Ι sed κεκρα in ras m3 17 μέγιστος — 18 διαφυγοῦσα citat Macar fol. 90 17 δὲ om Macar 18 γλώσσας Macar 20 ὃ om Mor | κεκράτηται Μο sed κέκριται in marg
+marginal R II 268
+marginal R II 269 1 cf. p. 204, 5 sq. 10 cf. p. 66, 6 sq. t. Ι 175, 12 sq. 1 αὑτὸν APIMo 2 δεδεγμένοις CPaMo Mor 5 ἀπ-ῆλθεν Ι sed ν add m3 6 τὸ inserui e V om reliqui libri edd 7 ἕτερον ἢ Mor 9 καταμικρὸν PIV | ἐμοῦ Ι sed ἐμοῦ ex ε ut videtur corr m3 10 τοῦ om Ι 14 ἔφασκεν Ι | ἐπὶ Ι sed περὶ suprascr m3 | καὶ inserui cum Sinteni | ὡς] ἐν Pa 15 μησὶ om Mor | ταῦτα Mor | δ’ Re 19 τὰ ’ κείνου scripsi ex AV τἀκείνου reliqui libri edd 20 ταὐτὸ Pa
+footnote 1 Il. α 225 cf. t. 1 278, 7 3 cf. p. 147 not. 1 et 188 not. 1 21 ἢ — 22 ὑμῖν] εἶτα προιὼν μετέλαβε τὸν λόγον ἐπ’ ἄλλο σχῆμα λέγων· εἰ οὖν ὑπὸ τῶν πολλοὺς ἀπεκτονότων ἔκει-σθον πληγέντε. καὶ πολλὰ τούτου τὰ τοιαῦτα θαυμαστὰ πάντα V2 1 Μο Mor qui ὦ coni 6 ἔργῳ Mor 10 δὲ Re 17 καὶ φόνον om Mor
+marginal R II 270
+footnote 3 Il. ο 117 4 εἰσπραττόμενον] ἤτοι ἀπαιτούμενον· τὸ γὰρ εἰσπραττό-μενον ἀντὶ τοῦ ἀπαιτοῦντα ἅπαξ ἐδείχθη ἀδόκιμον· ἀντὶ δὲ τούτου πραττόμενον ἢ ἀπαιτοῦντα V2 cf. schol. ad p. 13,11. II 78,2; 526,10 1 αὐτῶν V | λῃστῶν ΙΜο 3 ἔκεισθον pro ἐκείσθην Liba-nium barbare scripsisse perperam dixit Cobetus Mnem. III 248 (Coll. 130) 4 signum interrogationis post εἶναι et εἴσπραξιν posuit Re 9 et 10 δ’ Re 10 φωνάς Pa Re τιμάς reliqui libri Mor qui ποίους — τόνους coni cf. t. II p. 319,10 R 11 δ’ Re 12 μετάστασιν Re quod correxit Cobetus Mnem. Ν. S. III 142 13 οὐ δεινὰ δεδοικότων scripsi ut coni Re Anim οὐ δεινὰ δεδιότων V δεδοικότων οὐ δεινὰ Pa δεδοικότων δεινὰ reliqui libri sed ordinem litteris β et α suprascriptis invertit I3, Mor δεδοικότων οὐ δεινὰ Re ἀδεᾶ δεδοικότων Cobet Coll. 130 | δὲ οὐ δεινὰ CAPIMo Mor οὐ del Re 14 πολλοὺς inser I3 16 μήτ’ ἂν A sed γρ μήποτ’ ἂν in marg μὴ πο τἂν Ι sed πο in ras m3
+marginal R II 271
+footnote 16 cf. t. II 149, 20 20 ἤτοι σαυτῷ ἐγκάλει V2 3 ἀπιόντες Ρ sed ντ in ras m4 5 ἐχόντων Ρ sed τω in ras m4 7 αὐτοῖς CPMoV Mor | μεταστάντες Mor 8 τῶν CPaMo om Mor | παρημῶν V 9 αὐτοῖς V 11 αὑτὸς Μο Mor | τινὰς Ι sed ς add m3 12 ἐγκαλῇ CMo ἐγκαλῶν Mor | num Κρουνοῖς? χρόνοις Mor qui ἐγχωρίοις coni 12 ἡμέ-ρας — 13 τὸ in marg Mo2 13 οἳ ΑΡ sed in hoc in οἵ corr m4, Μο ἵ V Mor | ὑμῶν CPaMo Mor | γε inser I3 15 εἰ δὴ ? 16 κιμμερίων Ρ sed ων in ras ut videtur ex οσ corr m3 et ΄ supra ε eras, I sed Κιμμέριον suprascr m3 18 ὡς Μο Mor 19 συκοφάντης· Pa
+marginal R II 272
+footnote 14 Ιl. α 259. β 370 cf. ep. 666 20 cf. p. 188 not. 1 1 ἐπιθυμίαν ΜοΜοr 2 ἡδέως &lt;ἂν&gt; Cobet Mnem. III (Coll. 130) 4 πλείονά V 5 μετὰ om Mor 6 τοῦτον CPaMo Mor τοῦδ’ ἔτι coni Re 8 τω ΡΙ sed ~ add P3I3 9 τὸ ΡΙ sed ` add P3I3 τῷ V | signum interrogationis re-posui e PIV, Colon reliqui libri edd | ἡμῖν Mor qui ὑμῖν coni | τι Mor 10 ἔβλεπε τ’ Μο | ταὐτὰ Re 11 ἐγίγνετ’ reposui e libris ἐγίνετ’ Mor ἐγένετ’ Re 14 δὲ edd 17 ἐβλέψατε ΡαΜο Mor | ποθ’ Re πόθ’ libri Mor 18 τίς Mor | δύνασθ’ Μο δύναιτ’ Mor | κατηγορεῖν ἐνταῦθα C 19 ἐπιθυμεῖτε ΡαΜΟ Mor
+marginal R II 273
+footnote 13 cf. ep. 407. 187 4 ἢ πρότερον om Mo Mor | ποιοῦντες in marg add Μο2 5 οἷοιπερ V Re οἵπερ reliqui libri sed ι post ι suprascr Α2, Mor 7 τίς V 11 post χρόνου cancellis inclusa τὰ τῶν ἐπιτηδευμάτων ἆθλα add Mor p. 641 frinem indicans orationis, quae sequuntur p. 675 80[. praebens | ἡμετέρας Mor 16 τίς APMo | ἐν ante ἐμοί edd delevi | τὰ Ρ sed ` add 17 σιωπῶν Pa 20 οὐ πολύ γε inser I3 22 διέβαλεν V 23 τῶν Μο et γρ Mor | διατοῦθ’ PIMoV | ἑτέρου Pa
+marginal R II 274
+marginal R II 275
+footnote 1 „forte leg. ἂν ἔγνω“ Re Anim 3 μὲν μέμψασθαι Re οὐδαμοῦ Pa 6 μηδενὸς Re ἡμῖν libri Mor 7 οὐκοῦν Μοr μηδὲν Μοr sed γρ μηδενός μὴ δὲ V 9 λέγεις scripsi ex IV λέγοις reliqui libri edd 11 ἐρεῖς A sed γρ φῆίς in marg ηυ φὴς Ρ | εὐχόμην V 14 ἀλγεινῶν? 15 ἦν inser I3 16 τοῖς ἄρθροις om Mor 17 τά Ρ sed ΄ in ras m3, IV 18 συν-έχεσθαι Μο Mor 19 τὰ om Mor 20 ὅτι Ι sed τι add m3 | τὸ Μο Mor 21 δύνασθαι τί AP 22 τἀκείνων ΡΙ
+footnote 1 δὲ Re 2 ἂν Re | ἐδέθη Mor | λῃστῶν ΙΜο | ἑλόντων om Pa | ἠτιῶ Μοr, γρ αἰτῶ in marg 3 με Ι sed ε in ras m3 4 ἀγχόμενον Pa 5 ἐπιλελῆσθαι CMo Mor εἴη Mor 11 ὃ Μο ετ γρ in marg Mor ὡς Mor | ἂν inserui e V om reliqui libri edd | ἀστρατίας V 12 ὑπὸ Cobet Coll. 130 | ἐκλιπὼν τί ΡΜο 13 τῶν γραφομένων Ι sed in τὸν γραφό-μενον corr m3 | κακῶς Ι | ἔδειξεν Ι 16 αὐτῶ Μο Mor 16 ἑώρακα μὲν Μοr 17 ἀποδύναι ΙΜο 18 παρὰ πάντων τῶν θεατῶν Ρ sed τῶν inser m3, Re παρὰ πάντων A sed γρ παρὰ πάντων θεατῶν in marg, CMo sed γρ παρὰ πάντων τῶν θεατῶν παρὰ πάντων θεατῶν PaIV περὶ πάντων τῶν θεῶν τῶν Mor, quod correxit Koenius ad Greg. Cor. p. 139 ed. Lips. 1811 : θεατῶν scribere malim pro θεῶν τῶν, quod in θεωρούν-των mutabat sensu egregie perspecto piersonus Veris. ΙΙ 10 [LB. 1762] p. 258“ ad quem locum Bastius 1. 1. adnotavit: Codices Parisini confirmant“ de quo cf. p. 188 sq. | οὐδὲ C
+marginal R II 276
+marginal R II 277
+footnote 1 οὐδὲ] οὐ Μο Μοr 2 οὐδὲ CPaMo edd 4 καθέ-καστον Μο | τινὸς Μο Mor 5 τε om Pa | γὰρ] γὰρ καὶ Pa καὶ Μο Mor | τὸ om CPaMo Mor 6 διατί ΡΙ sed in hoc in ras m3, Mo V 7 δὲ Re | οἴσοντες Μο sed ες in ras m2 8 καὶ — ἐπειδήπερ ἥκετε in marg Mo2 | φέρεται Mor qui φέ-ρετε coni 13 δὲ Re 15 ὁπότε Ι ὁ τότ’ ἐν ἀπαλλαγῇ ταχείᾳ τοσαῦτα βοῶν coni Re Anim | ταχείᾳ e ταχεῖα corr P5 17 τε τῶν V 20 et 21 τοῖς e τοις corr P3 21 ἀμφοτἐ-ροις Mor 23 αἱρούμενος Mo sed υ eras αἱρούμενος V
+marginal R II 278
+marginal R II 279
+footnote 1 οὐκ ἔτι Α post οὐκέτι comma inser Re | οὐδένα scripsi auctore Re Anim οὐ ACI sed in hoc eras, PaMo om PV cancellavit Mor οὐδὲν Cobet Coll. 131 | λήξεως I sed η ex ε corr m3 2 ἐτιμησάμην ἂν erasis litteris suprascriptis β et α Ρ 4 τετιμηκόσιν scripsi coll. 203, 5 νενικηκόσιν libri edd τεθνηκόσιν? Sintenis 6 τελευτὰς Ρ sed ελ in ras m4 7 οὐδὲ οἱ Ι 8 οὐδ’ Re | ὃς ἂν ἐπιτιμήσαι scripsi ὅστις ἐπι-τιμήσαι V ὡς ἐπιτιμῆσαι reliqui libri edd 10 ἀνέχοντες Ι sed ἐς in ras m2 11 δ’] οὐδ’ CMo om Mor sed γρ οὐδ’ in marg | γε scripsi auctore Sinteni μὴ libri edd sed abesse maluit Re 12 συμφορὰς 1 sed ἐκ suprascr m3 13 ἡγού-μενοι Ι sed ἡγ in ras m2 18 εἰ σοῦ reposui e libris εἴ σου edd 20 τούτων] „legendum aut τούτου aut ταύτης aut deni-que τί τούτῳ καταλείπων τοὺς ἄλλους ποστερεῖς“ Re
+marginal R II 280
+footnote 10 Dem. de fals. leg. p. 403, 16 21 cf. t. IV p. 855 β΄ 5 1 οὐδ’ ἐκεῖνο in οὐδὲ ’κεῖνο corr Ι2 3 ἔδοξεν Mor qui ἔδειξεν coni 4 δ’ (1)18) Re 6 τοὺς νόμους Pa 7 κἀν scripsi καὶ libri edd | μηδὲν Re 11 ἀποδείξεις Ι 12 τη-νάλως CI 13 λόγοις λόγοι CIPaMo Mor 15 γὰρ om V | μὲν τὴν V 16 μανθανόντων — παρ’ om Mor 17 ταῦτα Μο sed in ταὐτὰ corr, Mor | προάγω Mor sed γρ προάγει in marg 18 δέ Ρ sed ε in ras m5 22 οὕτως P sed ουτ in ras m2 | ἴσμεν inserui auctore Re | οὐκ V sed post κ lacuna 4—5 litt
+marginal R II 281
+marginal R II 282
+footnote 4 διωκέτω] ζητείτω V 1 ἐθέλοι Ι | ῥητορεύειν coni Re | οὕτω V 2 τῶν et βου-λομένων Ι 4 δεικνύοντα V sed o eras 5 ἴσον ΡΙ sed (??) in ras P3I3 ἴσω Μο et γρ in Marg Mor „malim ἴσων (sc. λό-γων)“ Re | τῆκον Μο τύπον Μοr sed γρ τύκον in marg | κἂν e καἲ corr I3 κἀν V 8 οἷς Ι sed οι in ras et ‘ e ’ corr m3 9 μὴ δὲ PIMoV | τίς V sed ΄ eras 12 ἐπιδιδόντων V 13 δὲ Ρ sed δε in ras m2 14 προιστάμενοι Pa περιιστάμενοι Mor 16 μὴ δὲ PIMo V 17 οἷς ποιοῦσι τὸν cancellavi ποιοῦσι τὸν male repetitum, οἷς ad structuram resarciendam postea insertum esse arbitratus οἷς Ι sed o in ras m3 | ποι-οῦσι om Pa ποιοῦσιν Mor | τὸν eras P om Mor 18 ἠνώ-χληκεν I. sed η ex ι corr et ν (2) add m3
+marginal R II 283
+footnote 1 τ’ ἐμαυτοῦ Μο et γρ in marg Mor τι ἐμαυτοῦ Mor qui τὰ ἐμαυτοῦ coni 2 τοὺς δὲ I | δὲ τοὐς om Ι 3 ἴδοι Μο Mor γρ ἴδω in marg Mor I μήποτε Μο Mor | γινώσκοντας V 6 ἡμετέραις Μο Mor 8 Δανάης Re δαπάνης libri sed π eras V, Mor 9 ὄδ’ APIMoV εἰ δ’ Mor 10 τίς V 12 αὐτὸ τὸ Ι | εὐφραῖνον Ι 14 ὁ μὲν Mor 15 ἄγριον Ι sed γ in ras m3 | οὐδενὶ CPaMo Mor 24 ὃν Ι

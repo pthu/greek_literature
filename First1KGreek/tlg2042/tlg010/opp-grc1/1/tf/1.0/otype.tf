@@ -1,0 +1,39 @@
+@node
+@author=Origenes
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@editor=Erich Klostermann
+@filename=tlg2042.tlg010.opp-grc1
+@funder=European Social Fund Saxony
+@principal=Gregory Crane, Monica Berti
+@publicationStmt=University of Leipzig, tlg2042.tlg010.opp-grc1.xml.
+@respStmt=Gregory R. Crane, Editor-in-Chief, Perseus Digital Library, Digital Divide Data, Corrected and encoded the text, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor, Greta Franzini, Project Manager (University of Leipzig), 2013-2014, Frederik Baumgardt, Technical Manager (University of Leipzig), 2013-2015, Simona Stoyanova, Project Manager (University of Leipzig), 2015, Project Assistant (University of Leipzig), 2013-2014
+@sourceDesc=Origenes Werke, Erich Klostermann, Origenes, J. C. Hinrichs'sche Buchhandlung, Leipzig, 1901, vol. 3, Internet Archive.
+@sponsor=University of Leipzig
+@title=Fragmenta In Jeremiam (in Catenis)
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T15:09:50Z
+
+1-8398	word
+8399	_book
+8400-9715	_phrase
+9716-10234	_sentence
+10235-10244	add
+10245-10265	altnumbering
+10266-10342	altref
+10343-10413	corresp
+10414	edition-grc
+10415-10485	fragment
+10486-10555	head
+10556-10557	l
+10558-10737	lb
+10738-10739	lg
+10740-10810	mentioned
+10811-10845	note
+10846-10927	p
+10928-10961	pb

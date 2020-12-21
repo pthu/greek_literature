@@ -1,0 +1,223 @@
+@node
+@author=Vitae Pindari Et Varia De Pindaro
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=the original format of the word without interpunction
+@editor=A. B. Drachmann
+@filename=tlg4170.tlg001c.1st1K-grc1
+@funder=Google Digital Humanities Awards Program
+@principal=Gregory Crane
+@publicationStmt=Trustees of Tufts University, Medford, MA, Perseus Project.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Gessner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor
+@sourceDesc=Vitae Pindari et varia de Pindaro, Scholia vetera in Pindari carmina, Leipzig, B.G. Teubneri, 1903, 1, Internet Archive.
+@sponsor=University of Leipzig
+@title=Vita metrica
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:49:58Z
+
+Πίνδαρον 
+ὑψαγόρην 
+Καδμηίδος 
+οὔδεϊ 
+Θήβης 
+Κλειδίκη 
+εὐνηθεῖσα 
+μενεπτολέμῳ 
+Δαϊφάντῳ 
+γείνατο 
+ναιετάουσα 
+Κυνὸς 
+κεφαλῆς 
+παρὰ 
+χώρῳ, 
+οὐκ 
+οἶον· 
+ἅμα 
+τῷ 
+καὶ 
+Ἐρίτιμον 
+εἰδότα 
+θήρην, 
+ εἰδότα 
+πυγμαχίην 
+τε 
+παλαισμοσύνην 
+τ᾿ 
+ἀλεγεινήν. 
+τὸν 
+μὲν 
+ὅτε 
+κνώσσοντα 
+ποτὶ 
+χθόνα 
+κάτθετο 
+μήτηρ 
+εἰσέτι 
+παιδνὸν 
+ἐόντα, 
+μέλισσά 
+τις 
+ὡς 
+ἐπὶ 
+σίμβλῳ 
+χείλεσι 
+νηπιάχοισι 
+τιθαιβώσσουσα 
+ποτᾶτο. 
+τῷ 
+δὲ 
+λιγυφθόγγων 
+ἐπέων 
+μελέων 
+θ᾿ 
+ὑποθήμων 
+ ἔπλετο 
+δῖα 
+Κόριννα· 
+θεμείλια 
+δ᾿ 
+ὤπασε 
+μύθων 
+τὸ 
+πρῶτον· 
+μετὰ 
+τὴν 
+δ᾿ 
+Ἀγαθοκλέος 
+ἔμμορεν 
+αὐδῆς, 
+ὅς 
+τέ 
+ῥά 
+οἱ 
+κατέδειξεν 
+ὁδὸν 
+καὶ 
+μέτρον 
+ἀοιδῆς. 
+εὖτε 
+δ᾿ 
+Ἀλεξάνδροιο 
+Φιλιππιάδαο 
+μενοινῇ 
+Καδμείων 
+ἀφίκοντο 
+Μακηδόνες 
+ἄστεα 
+πέρσαι, 
+ Πινδαρέων 
+μεγάρων 
+οὐχ 
+ἥψατο 
+θεσπιδαὲς 
+πῦρ. 
+ἀλλὰ 
+τὰ 
+μὲν 
+μετόπισθεν. 
+ἔτι 
+ζώοντι 
+δ᾿ 
+ἀοιδῷ 
+Φοῖβος 
+ἄναξ 
+ἐκέλευσε 
+πολυχρύσου 
+παρὰ 
+Πυθοῦς 
+ἤια 
+καὶ 
+μέθυ 
+λαρὸν 
+ἀεὶ 
+Θήβηνδε 
+κομίζειν. 
+καὶ 
+μέλος, 
+ὡς 
+ἐνέπουσιν, 
+ἐν 
+οὔρεσιν 
+ἠυκέρως 
+Πάν 
+ Πινδάρου 
+αἰὲν 
+ἄειδε, 
+καὶ 
+οὐκ 
+ἐμέγηρεν 
+ἀείδων. 
+ἦμος 
+δ᾿ 
+ἐν 
+Μαραθῶνι 
+καὶ 
+ἐν 
+Σαλαμῖνι 
+παρέσταν 
+αἰναρέται 
+Πέρσαι 
+μετὰ 
+Δάτιδος 
+ἀγριοφώνου, 
+τῆμος 
+ἔτι 
+ζώεσκεν, 
+ὅτ᾿ 
+Αἰσχύλος 
+ἦν 
+ἐν 
+Ἀθήναις. 
+τῷ 
+δὲ 
+Τιμοξείνη 
+παρελέξατο 
+δῖα 
+γυναικῶν, 
+ ἥ 
+τέκεν 
+Εὔμητιν, 
+μεγαλήτορα 
+καὶ 
+Δαΐφαντον, 
+Πρωτομάχην 
+δ᾿ 
+ἐπὶ 
+τοῖσιν. 
+ἔμελψε 
+δὲ 
+κῦδος 
+ἀγώνων 
+τῶν 
+πισύρων, 
+μακάρων 
+παιήονας 
+ἐνδεδεγμένους, 
+καὶ 
+μέλος 
+ὀρχηθμοῖο, 
+θεῶν 
+τ᾿ 
+ἐρικυδέας 
+ὕμνους, 
+ἠδὲ 
+μελιφθόγγων 
+μελεδήματα 
+παρθενικάων. 
+ τοῖος 
+ἐὼν 
+καὶ 
+τόσσα 
+παθὼν 
+καὶ 
+τόσσα 
+τελέσσας 
+κάτθανεν 
+ὀγδώκοντα 
+τελειομένων 
+ἐνιαυτῶν.

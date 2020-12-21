@@ -1,0 +1,29 @@
+@config
+@author=Diogenes Laertius
+@availability=Available under a Creative Commons Attribution-ShareAlike International 4.0 License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@editor=R.D. Hicks
+@filename=tlg0004.tlg001.perseus-grc1
+@fmt:text-orig-full={pre}{orig}{post}
+@fmt:text-orig-main={main} 
+@fmt:text-orig-plain={plain} 
+@funder=National Endowment for the Humanities Division of Preservation and Access
+@placeName=Ciron
+@principal=Gregory Crane
+@publicationStmt=Cultural Heritage Langauge Technologies, Kansas City Missouri, November 1, 2005.
+@respStmt=Prepared under the supervision of, Lisa Cerrato, William Merrill, Elli Mylonas, David Smith
+@sectionFeatures=book,chapter,section
+@sectionTypes=book,chapter,section
+@sourceDesc=Lives of Eminent Philosophers, Diogenes Laertius, R.D. Hicks, Cambridge, Harvard University Press, 1972 (First published 1925).
+@sponsor=Perseus Project, Tufts University
+@structureFeatures=_book,book,chapter,section,_sentence,_phrase
+@structureTypes=_book,book,chapter,section,_sentence,_phrase
+@title=Lives of Eminent Philosophers
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:46:41Z
+

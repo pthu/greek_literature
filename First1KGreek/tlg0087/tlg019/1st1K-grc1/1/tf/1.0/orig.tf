@@ -1,0 +1,167 @@
+@node
+@author=Herodianus
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=the original format of the word without interpunction
+@editor=August Lentz
+@filename=tlg0087.tlg019.1st1K-grc1
+@funder=Harvard Library Arcadia Fund
+@principal=Gregory Crane
+@publicationStmt=Harvard College Library, tlg0087.tlg019.1st1K-grc1.xml.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Gessner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig) 2015 - 2017, Bruce Robertson, Technical Advisor
+@sourceDesc=Herodiani Technici Reliquiae, August Lentz, Aelius Herodianus, Teubner, Leipzig, 1868, 2, Grammatici Graeci, 3.2.1, Hathi Trust.
+@sponsor=University of Leipzig
+@title=Περὶ μετοχῶν
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T14:58:22Z
+
+τὰ 
+ἄλλα 
+μέρη 
+τοῦ 
+λόγου 
+ϲχεδὸν 
+ὡϲ 
+ἐπὶ 
+πλεῖϲτον 
+προτίθεται, 
+αἱ 
+δὲ 
+μετοχαὶ 
+ἀεὶ 
+δεύτεραι 
+τῶν 
+ῥημάτων 
+τὴν 
+κίνηϲιν 
+ἔχουϲιν, 
+ὡϲ 
+δείκνυται 
+ἐν 
+τῷ 
+περὶ 
+μετοχῶν.
+αἱ 
+μετοχαὶ 
+ἢ 
+ἀπίαι 
+εἰϲιν 
+ἢ 
+παραϲύνθετοι, 
+οὐδέποτε 
+δὲ 
+ϲύνθετοι 
+ἢ 
+γὰρ 
+ἀπὸ 
+ἁπλῶν 
+ῥημάτων 
+παράγονται 
+καί 
+εἰϲιν 
+ἁπλα 
+οἶον 
+τύπτω 
+τύπτων 
+ἢ 
+ἀπὸ 
+ϲυνθέτων 
+ῥημάτων 
+παράγονται 
+καί 
+εἰϲι 
+παραϲύνθετοι 
+οἷον 
+καταγράφω 
+καταγράφων, 
+ἀναγινώϲκω 
+ἀναγινώϲκων 
+χωρὶϲ 
+ τῆϲ 
+ἀέκων 
+μετοχῆϲ. 
+αὕτη 
+γὰρ 
+ϲύνθετόϲ 
+ἐϲτιν. 
+ἀπὸ 
+γὰρ 
+τῆϲ 
+ἑκών 
+γέγονεν 
+ἐν 
+ϲυνθέϲει 
+ἀέκων. 
+οὐδὲ 
+γὰρ 
+ἔχει 
+ῥῆμα 
+προυπάρχον 
+ἐν 
+ϲυνθέϲει, 
+ἵνα 
+παραϲύνθετον 
+αὐτὴν 
+εἴπωμεν, 
+ἀλλ’ 
+ἐν 
+μετοχῇ 
+ἐγένετο 
+ἡ 
+ϲύνθεϲιϲ.
+ἔτι 
+ἔϲτι 
+πάντεϲ 
+πάντων, 
+οὐχ 
+ὅτι 
+ἐκ 
+τοῦ 
+ παντὸϲ, 
+ὥϲ 
+τινέϲ 
+φαϲιν, 
+ἀφαιρέϲει 
+τοῦ 
+α 
+γέγονεν 
+ἐπεὶ 
+ἔδει 
+καὶ 
+τὸ 
+ παντόϲ 
+καὶ 
+τὸ 
+παντί 
+βαρύνεϲθαι, 
+ἐκ 
+τοῦ 
+παντὸϲ 
+ἅπαντι 
+ἀφῃρημένα· 
+ἀλλ’ 
+ὅτι 
+μετοχῆϲ 
+εἴληφεν 
+ἀναλογίαν, 
+ὡϲ 
+ἐν 
+τῷ 
+περὶ 
+μετοχ 
+ῶν 
+δέδεικται, 
+ὧ 
+λόγῳ 
+καὶ 
+τὸ 
+πᾶϲι 
+βεβαρυτόνηται 
+ὡϲ 
+ϲτᾶϲι, 
+δοῦϲιν.

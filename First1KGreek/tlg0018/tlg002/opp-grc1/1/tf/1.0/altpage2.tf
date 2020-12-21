@@ -1,0 +1,66 @@
+@node
+@author=Philo Judaeus
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@description=no feature metadata have been provided; look at the name of the feature and at the data itself to get some clues
+@editor=Leopold Cohn
+@filename=tlg0018.tlg002.opp-grc1
+@funder=European Social Fund Saxony
+@principal=Gregory Crane
+@publicationStmt=University of Leipzig, tlg0018.tlg002.opp-grc1.xml.
+@respStmt=Digital Divide Data, Corrected and encoded the text, Gregory Crane, Editor-in-Chief, Perseus Digital Library, Matt Munson, Project Manager (University of Leipzig), Annette Geßner, Project Assistant (University of Leipzig), Thibault Clérice, Lead Developer (University of Leipzig), Bruce Robertson, Technical Advisor, Greta Franzini, Project Manager (University of Leipzig), 2013-2014, Frederik Baumgardt, Technical Manager (University of Leipzig), 2013-2015, Simona Stoyanova, Project Manager (University of Leipzig), 2015, Project Assistant (University of Leipzig), 2013-2014
+@sourceDesc=Philonis Alexandri Opera Quae Supersunt, Leopold Cohn, Philo Judaeus, Typs et Impensis Georgii Reimerii, Berolini, 1896, 1, Hathi Trust.
+@sponsor=University of Leipzig
+@title=Legum allegoriarum libri i‑iii
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T15:05:02Z
+
+37855	p. 44 M.
+p. 47 M.
+p. 50 Μ.
+p. 52 M.
+p. 53 Μ.
+p 55 M.
+P 56 Μ.
+p 58 M.
+p. 59 M.
+p. 61 M.
+p. 64 M.
+p. 68 M.
+p. 69 M.
+p. 71 M.
+p. 73 M.
+p. 75 Μ.
+p. 77 M.
+p. 78 Μ.
+p. 80 M.
+p. 82 M.
+p. 84 M.
+p. 88 M.
+p.91 M.
+p. 93 M.
+p. 95 M.
+p. 97 M.
+p. 99 M.
+p.102 M.
+p. 104 Μ.
+p. 106 M.
+p. 108 M.
+p. 109 Μ.
+p. 111 M.
+p. 113 Μ.
+p. 115 Μ.
+p. 118 M.
+p. 120 M.
+p. 123 M.
+p. 125 M.
+p. 127 Μ.
+p. 129 M.
+p. 132 M.
+p. 134 Μ.
+p. 136 M.

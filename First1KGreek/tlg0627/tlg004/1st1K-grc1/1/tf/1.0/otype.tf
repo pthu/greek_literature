@@ -1,0 +1,31 @@
+@node
+@author=Hippocrates
+@availability=Available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+@convertor_author=Ernst Boogert
+@convertor_date=July, 2020
+@convertor_execution=Ernst Boogert
+@convertor_institution=Protestant Theological University (PThU), Amsterdam/Groningen, The Netherlands
+@convertor_version=1.0.0
+@editor=Émile Littré
+@filename=tlg0627.tlg004.1st1K-grc1
+@funder=Andrew W. Mellon Foundation
+@principal=Gregory Crane
+@publicationStmt=A Digital Corpus for Graeco-Arabic Studies, funded by the Andrew W. Mellon Foundation, University of Leipzig, Germany, tlg0627.tlg004.1st1K-grc1.xml.
+@respStmt=Published original versions of the electronic texts, A Digital Corpus for Graeco-Arabic Studies, funded by the Andrew W. Mellon Foundation, Mark Schiefsky, Harvard University, Gregory R. Crane, Universität Leipzig, Uwe Vagelpohl, University of Warwick, Keyboarding, Digital Divide Data, Editor-in-Chief, Perseus Digital Library, Gregory R. Crane, Project Manager (University of Leipzig), Matt Munson, Project Assistant (University of Leipzig), Annette Geßner, Lead Developer (University of Leipzig), Thibault Clérice, Technical Advisor, Bruce Robertson
+@sourceDesc=Oeuvres complètes d'Hippocrate, Hippocrates, Émile Littré, Baillière, Paris, 2, 224-376, 1840, HathiTrust.
+@sponsor=Harvard College Library
+@title=De diaeta in morbis acutis
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2020-12-11T15:02:50Z
+
+1-6136	word
+6137	_book
+6138-7073	_phrase
+7074-7223	_sentence
+7224-7241	chapter
+7242	edition-grc
+7243	head
+7244-7853	lb
+7854-7871	p
+7872-7948	pb
